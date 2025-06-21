@@ -58,6 +58,5 @@ A third-year Computer Science and Technology student at [LJ University](https://
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nemadeaditya/)
 </p>
 
-| <a href="https://github.com/AdityaGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beastnemade&theme=dracula&show_icons=true&hide_border=false&count_private=true" /></a> | 
-<a href="https://github.com/AditytaGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastnemade&theme=dracula&show_icons=true&hide_border=false&layout=compact" /></a> |
+| <a href="https://github.com/AdityaGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beastnemade&theme=dracula&show_icons=true&hide_border=false&count_private=true" /></a> | <a href="https://github.com/AditytaGitRepo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beastnemade&theme=dracula&show_icons=true&hide_border=false&layout=compact" /></a> |
 | ------------- | ------------- |
