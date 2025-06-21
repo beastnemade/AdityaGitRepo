@@ -45,7 +45,6 @@ A third-year Computer Science and Technology student at [LJ University](https://
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-3C3C7E.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![TRAEIDE](https://img.shields.io/badge/TraeIDE-%23f06a45?style=flat-square&logoColor=%23f06a45)
 
 
 
